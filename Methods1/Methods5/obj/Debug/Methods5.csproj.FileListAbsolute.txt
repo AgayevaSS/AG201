@@ -1,0 +1,6 @@
+D:\AG201\Methods1\Methods5\bin\Debug\Methods5.exe
+D:\AG201\Methods1\Methods5\bin\Debug\Methods5.pdb
+D:\AG201\Methods1\Methods5\obj\Debug\Methods5.csproj.AssemblyReference.cache
+D:\AG201\Methods1\Methods5\obj\Debug\Methods5.csproj.CoreCompileInputs.cache
+D:\AG201\Methods1\Methods5\obj\Debug\Methods5.exe
+D:\AG201\Methods1\Methods5\obj\Debug\Methods5.pdb
