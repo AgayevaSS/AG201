@@ -1,0 +1,8 @@
+D:\AG201\Methods1\Methods3\obj\Debug\Methods3.csproj.AssemblyReference.cache
+D:\AG201\Methods1\Methods3\obj\Debug\Methods3.csproj.SuggestedBindingRedirects.cache
+D:\AG201\Methods1\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+D:\AG201\Methods1\Methods3\bin\Debug\Methods3.exe.config
+D:\AG201\Methods1\Methods3\bin\Debug\Methods3.exe
+D:\AG201\Methods1\Methods3\bin\Debug\Methods3.pdb
+D:\AG201\Methods1\Methods3\obj\Debug\Methods3.exe
+D:\AG201\Methods1\Methods3\obj\Debug\Methods3.pdb

@@ -1,0 +1,8 @@
+D:\AG201\Methods1\Program2.cs\bin\Debug\Program2.cs.exe.config
+D:\AG201\Methods1\Program2.cs\bin\Debug\Program2.cs.exe
+D:\AG201\Methods1\Program2.cs\bin\Debug\Program2.cs.pdb
+D:\AG201\Methods1\Program2.cs\obj\Debug\Methods2.csproj.AssemblyReference.cache
+D:\AG201\Methods1\Program2.cs\obj\Debug\Methods2.csproj.SuggestedBindingRedirects.cache
+D:\AG201\Methods1\Program2.cs\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+D:\AG201\Methods1\Program2.cs\obj\Debug\Program2.cs.exe
+D:\AG201\Methods1\Program2.cs\obj\Debug\Program2.cs.pdb

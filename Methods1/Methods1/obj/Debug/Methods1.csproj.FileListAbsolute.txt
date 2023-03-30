@@ -1,0 +1,8 @@
+D:\AG201\Methods1\Methods1\bin\Debug\Methods1.exe.config
+D:\AG201\Methods1\Methods1\bin\Debug\Methods1.exe
+D:\AG201\Methods1\Methods1\bin\Debug\Methods1.pdb
+D:\AG201\Methods1\Methods1\obj\Debug\Methods1.csproj.AssemblyReference.cache
+D:\AG201\Methods1\Methods1\obj\Debug\Methods1.csproj.SuggestedBindingRedirects.cache
+D:\AG201\Methods1\Methods1\obj\Debug\Methods1.csproj.CoreCompileInputs.cache
+D:\AG201\Methods1\Methods1\obj\Debug\Methods1.exe
+D:\AG201\Methods1\Methods1\obj\Debug\Methods1.pdb
