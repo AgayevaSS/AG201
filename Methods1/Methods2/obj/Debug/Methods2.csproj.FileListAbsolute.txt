@@ -1,0 +1,6 @@
+D:\AG201\Methods1\Methods2\bin\Debug\Methods2.exe
+D:\AG201\Methods1\Methods2\bin\Debug\Methods2.pdb
+D:\AG201\Methods1\Methods2\obj\Debug\Methods2.csproj.AssemblyReference.cache
+D:\AG201\Methods1\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+D:\AG201\Methods1\Methods2\obj\Debug\Methods2.exe
+D:\AG201\Methods1\Methods2\obj\Debug\Methods2.pdb
