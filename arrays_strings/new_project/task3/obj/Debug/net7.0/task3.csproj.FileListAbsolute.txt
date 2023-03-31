@@ -1,0 +1,15 @@
+/home/archer/Desktop/new_project/task3/bin/Debug/net7.0/task3
+/home/archer/Desktop/new_project/task3/bin/Debug/net7.0/task3.deps.json
+/home/archer/Desktop/new_project/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/home/archer/Desktop/new_project/task3/bin/Debug/net7.0/task3.dll
+/home/archer/Desktop/new_project/task3/bin/Debug/net7.0/task3.pdb
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.dll
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/refint/task3.dll
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.pdb
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/home/archer/Desktop/new_project/task3/obj/Debug/net7.0/ref/task3.dll

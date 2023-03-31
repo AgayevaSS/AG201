@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJw3gMGS/QY7oCb5yZk/ZVMMesj93BjuuBR3DrHMgupu+70ekXEjlcG1ZpeK0wNFpV9r9Gll5IgxgRtBnuENOw==",
+  "success": true,
+  "projectFilePath": "/home/archer/Desktop/new_project/task5/task5.csproj",
+  "expectedPackageFiles": [
+    "/home/archer/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

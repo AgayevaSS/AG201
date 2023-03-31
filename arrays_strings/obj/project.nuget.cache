@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHoOJ7R4xpNJKR3YmiBXiYDsPZwOO1hWBarR1Ddf7oeqgzH23UMfvuVNJrP+fFAkzqDETltnnCPwQ3sjFV7OZw==",
+  "success": true,
+  "projectFilePath": "/home/archer/Desktop/AG201/arrays_strings/arrays_strings.csproj",
+  "expectedPackageFiles": [
+    "/home/archer/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
